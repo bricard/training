@@ -15,7 +15,7 @@ define([
     // Thomas Davis deployed CORS enabled version of the video-backbone-beginner-server at:
     // options.url = 'http://backbonejs-beginner.herokuapp.com' + options.url;
     // My edited version is at:
-    options.url = 'http://blooming-dawn-3496.herokuapp.com' + options.url;
+    options.url = 'http://evening-temple-8040.herokuapp.com' + options.url;
   });
 
     var UserListView = Backbone.View.extend({
