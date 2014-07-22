@@ -1,8 +1,11 @@
+userManager-2
+=============
+
 This is an OOP version of Thomas Davis tutorial 'Backbone.js Beginner Video Tutorial' located at:
 http://backbonetutorials.com/organizing-backbone-using-modules
 
 Currently served by Apache at:
-http://brunoricard.local/userManager-1
+http://brunoricard.local/userManager-2
 
 It uses:
 
@@ -21,4 +24,4 @@ nohm
 url and body-parser
 newrelic: Add-on to Heroku to monitor, troubleshoot, and tune production web applications
 
-Server is hosted on Heroku at: http://blooming-dawn-3496.herokuapp.com
+Server is hosted on Heroku at: http://usermanager-2.herokuapp.com
