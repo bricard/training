@@ -18,8 +18,8 @@ The requirejs 'text.js' plugin is also used
 3/ Backbone
 
 4/ CORS enabled Server built with:
-Node or more specifically express for the server part.</br>
-Redis for Database: Add-on on Heroku./br
+Node or more specifically express for the server part.\s\s
+Redis for Database: Add-on on Heroku.\s\s
 nohm.
 url and body-parser.
 newrelic: Add-on to Heroku to monitor, troubleshoot, and tune production web applications.
